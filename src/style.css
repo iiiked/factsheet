@@ -1,0 +1,10 @@
+@import "./utils/normalize.css";
+
+/* Global styles */
+/*****************/
+* {
+  box-sizing: border-box;
+}
+html, body, #appContainer {
+  min-height: 100vh;
+}
